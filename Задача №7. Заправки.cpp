@@ -1,11 +1,14 @@
 ﻿// Задача №7. Заправки.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
+// чтото изменил
 
 #include <iostream>
 #include <fstream>
 #include<stack>
 #include<vector>
 #include<set>
+
+
 
 #define INF 1000000000
 
